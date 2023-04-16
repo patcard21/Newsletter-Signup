@@ -34,7 +34,7 @@ const jsonData= JSON.stringify(data);
 const url="https://us21.api.mailchimp.com/3.0/lists/52878b327f";
 const options={
   method:"POST",
-  auth:"201951173:6a62d334bbdb6cb05438e6cc0dc05da5-us21"
+  auth:"201951173:8fcc30cdf50e7c36387271cf6790f32a-us21"
 }
 
 
@@ -68,7 +68,7 @@ app.listen(port, function() {
 
 
 // API key
-// 6a62d334bbdb6cb05438e6cc0dc05da5-us21
+// 8fcc30cdf50e7c36387271cf6790f32a-us21
 
 //Audience ID
 //52878b327f
